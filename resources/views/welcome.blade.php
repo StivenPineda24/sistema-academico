@@ -22,14 +22,14 @@
         <div class="bg-white p-10 rounded-xl shadow-lg">
 
             <h1 class="text-4xl font-bold text-blue-600">
-                ESTUDIOS STIVEN BRY
+                STUDIOS STIVEN BRY
             </h1>
 
             <p class="mt-4 text-gray-600">
 
                 Bienvenidos a la nueva era de la producción audiovisual. Combinamos técnica, creatividad y
                  equipos de alta gama para dar vida a tus proyectos, 
-                bodas y eventos memorables. No solo grabamos videos o tomamos fotos; creamos recuerdos inolvidables que perduran para siempre
+                bodas y eventos memorables. No solo grabamos videos o tomamos fotos; creamos recuerdos inolvidables que perduran para siempre.
 
             </p>
 
