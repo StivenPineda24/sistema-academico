@@ -6,8 +6,7 @@
     <title>Sistema Academico</title>
 </head>
 <body>
-    <h1>Sistema Web de Gestion Academico</h1>
-    <p>Bienvenido al sistema academico desarrollado con laravel.</p>
+    <h1>Fotos</h1>
+    <p>Tenemos un albun completo de fotos</p>
 </body>
 </html>
-
